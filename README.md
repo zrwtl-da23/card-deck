@@ -11,9 +11,9 @@ Features: Shuffle deck, Deal cards to N players, display cards distributed to pl
 Technologies Used: PHP Laravel, React, Javascript
 Installation: git clone, npm install, npm start.
 
-Usage: 
-    1. In the input form, enter the number of people.
-    2. Click on the "Distribute Cards" button.
+Usage: <br>
+    1. In the input form, enter the number of people.<br>
+    2. Click on the "Distribute Cards" button.<br>
     3. The system shall display the card distributed to each player.
 
 Author: Created by Zirwatul Aida.
